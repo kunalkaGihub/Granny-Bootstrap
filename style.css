@@ -1,0 +1,66 @@
+.navbar{
+    box-shadow: 1px 1px 1px 1px skyblue;
+    opacity: 0.9;
+}
+
+
+#header{
+    background: url("images/f9.gif") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: auto;
+}
+
+
+
+
+.p1nav{
+    font-size: 3.5em;
+    font-family: freestyle Script;
+}
+.h2nav{
+  font-size: 6.5em;
+    font-family:freestyle Script ;
+    
+}
+
+.p2nav{
+    font-size: 1.2em;
+}
+
+#special{
+     background: url("images/black4.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: auto;
+}
+
+
+
+#guest{
+    background: url("images/header.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: auto;
+}
+
+.fa{
+    color: goldenrod;
+}
+
+#news{
+    background: url("images/f7.gif") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: auto;
+}
+
+#footer{
+    background: url("images/wood.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: auto;
+}
+
+
+
